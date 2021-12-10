@@ -45,6 +45,9 @@
 @import url(../bloks/table/_theme/table_theme_dark.css);
 @import url(../bloks/techniques/techniques.css);
 @import url(../bloks/two-columns/two-columns.css);
+@import url(../bloks/video/video.css);
+@import url(../bloks/video/__iframe/video__iframe.css);
+@import url(../bloks/video/__iframes/video__iframes.css);
 @import url(../bloks/two-columns/__brief/two-columns__brief.css);
 @import url(../bloks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../bloks/two-columns/__paragraph/two-columns__paragraph.css);
