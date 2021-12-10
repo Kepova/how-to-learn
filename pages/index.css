@@ -1,4 +1,9 @@
 @import url(../vendor/normalize.css);
+@import url(../bloks/cards/cards.css);
+@import url(../bloks/cards/__description/cards__description.css);
+@import url(../bloks/cards/__image/cards__image.css);
+@import url(../bloks/cards/__item/cards__item.css);
+@import url(../bloks/cards/__title/cards__title.css);
 @import url(../bloks/description/description.css);
 @import url(../bloks/digits/digits.css);
 @import url(../bloks/feynman/feynman.css);
@@ -38,6 +43,7 @@
 @import url(../bloks/table/__text/table__text.css);
 @import url(../bloks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../bloks/table/_theme/table_theme_dark.css);
+@import url(../bloks/techniques/techniques.css);
 @import url(../bloks/two-columns/two-columns.css);
 @import url(../bloks/two-columns/__brief/two-columns__brief.css);
 @import url(../bloks/two-columns/__main-text/two-columns__main-text.css);
