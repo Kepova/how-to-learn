@@ -42,6 +42,11 @@
 @import url(../bloks/logo/_place/logo_place_header.css);
 @import url(../bloks/oakley/oakley.css);
 @import url(../bloks/page/page.css);
+@import url(../bloks/resources/resources.css);
+@import url(../bloks/resources/__logo-img/resources__logo-img.css);
+@import url(../bloks/resources/__logo-link/resources__logo-link.css);
+@import url(../bloks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../bloks/resources/__logo/resources__logo.css);
 @import url(../bloks/rotation/rotation.css);
 @import url(../bloks/section-subtitle/section-subtitle.css);
 @import url(../bloks/section-subtitle/_theme/section-subtitle_theme_dark.css);
